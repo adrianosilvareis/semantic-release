@@ -1,0 +1,8 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:adrianosilvareis/semantic-release.git",
+  "author": "adriano <adriano_silvasreis@hotmail.com>",
+  "license": "MIT"
+}
